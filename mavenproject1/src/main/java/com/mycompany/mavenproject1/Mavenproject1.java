@@ -11,6 +11,6 @@ package com.mycompany.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello yje6j56j !");
+        System.out.println("Hello yjghghghfe6j56j !");
     }
 }
